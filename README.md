@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahim</h1>
 <h3 align="center">I'm passionate about Full Stack Web Development.</h3>
 
-- 🔭 I’m currently working on **ReactJS, NodeJS, Spring, ExpressJS, and other technologies that help me build web apps.**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Spring, ExpressJS, and other technologies that help me build web apps.**
 
