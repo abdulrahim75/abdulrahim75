@@ -1,15 +1,9 @@
-- 👋 Hi,
-- 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning ReactJS, NodeJS, Spring, ExpressJS, and other Technologies that help me build web apps.
-- 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on
-- 📫 How to reach me: You can contact me in Linkedin/likith kandepu, or give an issue in some repository.
-
-# 👋 Hi, I'm Likith Anju Sai Bhargav Kandepu
+# 👋 Hi, I'm Abdul Rahim
 
 📧 **Contact Information:**
-- **Phone:** +91-9014327494
-- **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)
-- **LinkedIn:** [@likithkandepu13](https://www.linkedin.com/in/likithkandepu13/)
+- **Phone:** +91 7337484843
+- **Email:** [2200031648cseh@gmail.com](mailto:2200031648cseh@gmail.com)
+- **LinkedIn:** [@abdulrahimxp7](https://www.linkedin.com/in/abdulrahimxp7/)
 
 
 ---
@@ -18,9 +12,9 @@
 
 | **Degree**         | **Institute**              | **Board / University** | **CGPA/Percentage** | **Year**    |
 |--------------------|----------------------------|------------------------|---------------------|-------------|
-| B.Tech CSE          | KL University, Guntur      | KLEF                   | 9.74 (Till 4th Sem)  | 2022-2026   |
-| Senior Secondary    | Ascent Classes             | BOIE                   | 96.2%               | 2020-2022   |
-| Class X             | Sri Chaitanya School       | CBSE                   | 88.89%              | 2020        |
+| B.Tech CSE          | KL University             | KLEF                   | 9.58 (Till 4th Sem) | 2022-Present|
+| Senior Secondary    | Narayana                  | BIEAP                  | 90%                 | 2020-2022   |
+| Class X             | FIITJEE                   | SSC                    | 97.33%              | 2020        |
 
 ---
 
@@ -34,74 +28,63 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 
 
-- **Programming Languages:** Java, JavaScript, C
-- **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate
+- **Programming Languages:** C, Java, JavaScript, Python
+- **Full Stack Development:** HTML5, CSS3, ReactJS, Figma, NodeJS, ExpressJS, Spring, Django
 - **Database:** MongoDB, MySQL, PostgreSQL
-- **Cloud Services:** AWS
-- **Developer Tools:** VS Code, Git, Eclipse, Postman
-- **Other Tools:** GraphQL, Automation Anywhere
-
----
-
-## 💼 **Experience**
-
-### 🚀 **DestinEdge Tours (Startup)**  
-**Position:** Web Developer and Co-Founder  
-**Location:** Visakhapatnam  
-**Duration:** June 2023 - Present  
-- Led the development of DestinEdge, an Online Travel Agency (OTA) focused on enhancing travel convenience.
-- Developed a user-centric website using the MERN stack, offering curated travel packages.
-- Improved website performance by 20% through troubleshooting and debugging.
-- Implemented new features, increasing user engagement by 75%.
-- Mission: Deliver seamless, personalized travel experiences.
+- **Core Skills:** DSA, OS, DBMS, SQL, Network-Security
+- **Developer Tools:** Git, GitHub, GitLab, VS Code, Eclipse, Postman, SpringToolSuite4
+- **DevOps:** AWS, Linux
 
 ---
 
 ## 💻 **Projects**
 
-### 🎯 [Online Donation System](#)  
-**Duration:** Dec 2023 - Apr 2024  
-- Built an online donation management system using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- Integrated a secure payment gateway, simplifying donation processes.
-- Documented system architecture and APIs to streamline team collaboration.
+### 🎓 [STUDENT EXTRACURRICULAR ACTIVITES MANAGEMENT ](#)  
+**Duration:** Jul 2024 - Dec 2024
+- Built an student extracurricular management system using the Java Full stack (React.js, Spring Boot, MySQL).
+- Executed a React-Spring Boot system with Admin, College, and Student modules supporting CRUD operations and certificate verification. Improved system reliability by 25% through efficient debugging and testing.
+- Implemented robust system architecture to handle high-volume certificate verification requests, ensuring scalability and
+security
 
-### 📊 [Attendance Calculator for University Students](#)  
-**Duration:** Mar 2024 - Apr 2024  
-- Created a React-based app to help students manage their attendance.
-- Implemented an intuitive interface with hooks for tracking attendance patterns.
-- Empowered students to proactively manage their attendance.
+### 📊 [ONLINE TIME TABLE MANAGEMENT](#)  
+**Duration:** Dec 2023 - Jun 2024 
+- Created online time table management using Python Full Stack (Django, PostgreSQL).
+- Developed an Online Time Table Management System, optimizing scheduling for educational institutions. Implemented
+using Python Full Stack on GitHub, focusing on user-friendly interfaces, real-time updates, and robust functionalities like
+conflict resolution and user authentication
+- Optimized real-time data updates with efficient back-end communication protocols.
+
+### 🍕 [ONLINE FOOD ORDERING SYSTEM](#)  
+**Duration:** Mar 2023 - Sept 2023  
+- Developed an Online Food Ordering System using MERN Stack.  (React.JS, Express.js, Node.js, MongoDB)
+- Increased user engagement by 30% through customizable menus, secure payment gateways, and real-time order tracking.  
+- Managed the entire project lifecycle, showcasing strong project management skills and teamwork to deliver customer-centric solutions.  
+
+### 🏢 [EMPLOYEE MANAGEMENT](#)  
+**Duration:** Jun 2024 - Jul 2024  
+- Designed an Employee Management System using Enterprise Java on GitHub.  (Enterprise Java, MySQL)
+- Streamlined HR operations with features for employee information, attendance, leaves, and payroll management.  
+- Ensured compliance with organizational policies and regulatory requirements, enhancing productivity and fostering a cohesive work environment.
 
 ---
 
 ## 🎖 **Certifications**
 
-- ![Cambridge](https://img.shields.io/badge/Cambridge-B2-blue?style=flat-square) **Cambridge LinguaSkill English** (Cambridge University Press and Assessment, B2)
-- ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-A360-orange?style=flat-square) **Automation Anywhere Certified Essentials RPA Professional** (Automation 360, Automation Anywhere University)
-- ![Postman](https://img.shields.io/badge/Postman-API--Expert-orange?style=flat-square) **Postman API Student Expert** (Postman)
-- ![Azure](https://img.shields.io/badge/Microsoft-AI_900-blue?style=flat-square) **Microsoft Azure AI-900** (Microsoft)
-
+- ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) **Red Hat Certified Enterprise Application Developer** (Red Hat)  
+- ![Microsoft Azure](https://img.shields.io/badge/Azure_AI_900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) **Azure AI-900 Certified** (Microsoft)  
+- ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-A360-orange?style=for-the-badge&logo=automation-anywhere&logoColor=white) **Automation Anywhere Certified RPA Professional** (Automation Anywhere)  
+- ![Oracle](https://img.shields.io/badge/OCI_Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white) **OCI Generative AI Certified Professional** (Oracle)  
+- ![Salesforce](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) **Salesforce Certified AI Associate** (Salesforce)  
+- ![HackerRank](https://img.shields.io/badge/Software_Engineer_Intern-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) **Software Engineer Intern** (HackerRank)  
 ---
 
 ## 🌐 **Positions of Responsibility**
 
-- **Technical and Marketing Team, Kognitiv Club, CSEH, KL University**  
-  Apr 2020 - Present
-- **Public Relations Team, University Samyak Fest**  
-  Sept 2023 - Apr 2024
+-  **Lead Web & Full Stack Developer**,Software Engineering Association Club 
+  Apr 2022 - Present
 
----
-
-## 🏆 **Achievements**
-
-- 9.74 CGPA at KL University (Till 4th Sem)
-- 75% increase in user engagement at DestinEdge
-
-
-<!---
-likithkandepu13/likithkandepu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
