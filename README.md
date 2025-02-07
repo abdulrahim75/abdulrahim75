@@ -1,10 +1,11 @@
+
 # 👋 Hi, I'm Abdul Rahim
+
 
 📧 **Contact Information:**
 - **Phone:** +91 7337484843
 - **Email:** [2200031648cseh@gmail.com](mailto:2200031648cseh@gmail.com)
 - **LinkedIn:** [@abdulrahimxp7](https://www.linkedin.com/in/abdulrahimxp7/)
-
 
 ---
 
@@ -72,6 +73,24 @@ conflict resolution and user authentication
 - Ensured compliance with organizational policies and regulatory requirements, enhancing productivity and fostering a cohesive work environment.
 
 ---
+<h2>💻 Coding profiles</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/klu_2200031648/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/kl_2200031648">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/klu_2200031648">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/klu_2200031648">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=40&logoHeight=40" alt="Codeforces" />
+  </a>
+</p>
+
+---
+
 
 ## 🎖 **Certifications**
 
@@ -88,3 +107,8 @@ conflict resolution and user authentication
 -  **Lead Web & Full Stack Developer**,Software Engineering Association Club 
   Apr 2022 - Present
 
+<p align="right">
+<a href="https://www.codechef.com/users/kl_2200031648" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CodeChef-logo.svg" alt="codechef" height="20" width="25" /></a>
+<a href="https://leetcode.com/u/klu_2200031648/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/LeetCode_logo_2023.svg" alt="leetcode" height="20" width="25" /></a>
+<a href="https://www.geeksforgeeks.org/user/abdulrahimxp/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/GeeksforGeeks_logo.svg" alt="geeksforgeeks" height="20" width="25" /></a>
+</p>
