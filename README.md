@@ -1,25 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahim</h1>
-<h3 align="center">I'm passionate about Full Stack Web Development.</h3>
+```markdown
+# Likith Anju Sai Bhargav Kandepu
 
+👋 Hi, I'm Likith Anju Sai Bhargav Kandepu
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Spring, ExpressJS, and other technologies that help me build web apps.**
+## 🌱 Interests
+- Full Stack Web Development
+- Building Web Applications with Modern Technologies
 
-- 📫 How to reach me **abdulrahimxp7@gmail.com**
+## 💼 Looking to Collaborate
+I'm interested in collaborating on basic projects to build and enhance web development skills.
 
-- 📄 Know about my experiences [http://bit.ly/4eQ453e](http://bit.ly/4eQ453e)
+## 📫 Contact Information
+- **Phone:** +91-9014327494  
+- **Email:** 2200030837cseh@gmail.com  
+- **LinkedIn:** [Likith Kandepu](https://www.linkedin.com/in/likithkandepu13)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahimux7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahimux7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrahimxp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahimxp7" height="30" width="40" /></a>
-<a href="https://instagram.com/rahxm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahxm7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kl_2200031648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kl_2200031648" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/klu_2200031648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="klu_2200031648" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/klu_2200031648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="klu_2200031648" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/klu_2200031648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="klu_2200031648" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@klu_2200031648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@klu_2200031648" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abdulrahimxp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdulrahimxp/" height="30" width="40" /></a>
-</p>
+## 🎓 Education
+| Degree          | Institute              | Board / University | CGPA/Percentage | Year      |
+|-----------------|-------------------------|-------------------|-----------------|-----------|
+| B.Tech (CSE)    | KL University, Guntur   | KLEF              | 9.74 (Till 4th Sem) | 2022-2026 |
+| Senior Secondary| Ascent Classes          | BOIE              | 96.2%           | 2020-2022 |
+| Class X         | Sri Chaitanya School    | CBSE              | 88.89%          | 2020      |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🛠 Technical Skills
+- **Programming Languages:** Java, JavaScript, C  
+- **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate  
+- **Database:** MongoDB, MySQL, PostgreSQL  
+- **Cloud Services:** AWS  
+- **Developer Tools:** VS Code, Git, Eclipse, Postman  
+- **Other Tools:** GraphQL, Automation Anywhere
+
+## 💼 Experience
+### 🚀 DestinEdge Tours (Startup)
+- **Position:** Web Developer and Co-Founder  
+- **Location:** Visakhapatnam  
+- **Duration:** June 2023 - Present  
+
+#### Key Contributions:
+- Led the development of DestinEdge, an Online Travel Agency (OTA) focused on enhancing travel convenience.
+- Developed a user-centric website using the MERN stack, offering curated travel packages.
+- Improved website performance by 20% through troubleshooting and debugging.
+- Implemented new features, increasing user engagement by 75%.
+- Mission: Deliver seamless, personalized travel experiences.
+
+## 💻 Projects
+### 🎯 Online Donation System
+- **Duration:** Dec 2023 - Apr 2024
+- Built an online donation management system using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Integrated a secure payment gateway, simplifying donation processes.
+- Documented system architecture and APIs to streamline team collaboration.
+
+### 📊 Attendance Calculator for University Students
+- **Duration:** Mar 2024 - Apr 2024
+- Created a React-based app to help students manage their attendance.
+- Implemented an intuitive interface with hooks for tracking attendance patterns.
+- Empowered students to proactively manage their attendance.
+
+## 🎖 Certifications
+- **Cambridge:** Cambridge LinguaSkill English (B2)  
+- **Automation Anywhere:** Automation Anywhere Certified Essentials RPA Professional (Automation 360)  
+- **Postman:** Postman API Student Expert  
+- **Azure:** Microsoft Azure AI-900 Certification  
+
+## 🌐 Positions of Responsibility
+- **Technical and Marketing Team:** Kognitiv Club, CSEH, KL University (Apr 2020 - Present)  
+- **Public Relations Team:** University Samyak Fest (Sept 2023 - Apr 2024)  
+
+## 🏆 Achievements
+- Achieved **9.74 CGPA** at KL University (Till 4th Sem)  
+- Contributed to a **75% increase in user engagement** at DestinEdge
+
+---
+
+Thank you for visiting my profile! Feel free to reach out through LinkedIn or contact me directly for collaboration or project discussions.
+```
+
