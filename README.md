@@ -34,11 +34,9 @@
 
 
 - **Programming Languages:** C, Java, JavaScript, Python
-- **Full Stack Development:** HTML5, CSS3, ReactJS, Figma, NodeJS, ExpressJS, Spring, Django
-- **Database:** MongoDB, MySQL, PostgreSQL
+- **Web & Full Stack:** MERN, JAVA(SpringBoot), PYTHON(Django)
 - **Core Skills:** DSA, OS, DBMS, SQL, Network-Security
-- **Developer Tools:** Git, GitHub, GitLab, VS Code, Eclipse, Postman, SpringToolSuite4
-- **DevOps:** AWS, Linux
+- **DevOps:** VCS(Git), Ansible, Docker, Kubernetes, Terraform, Jenkins, AWS
 
 ---
 
@@ -59,11 +57,11 @@ using Python Full Stack on GitHub, focusing on user-friendly interfaces, real-ti
 conflict resolution and user authentication
 - Optimized real-time data updates with efficient back-end communication protocols.
 
-### 🍕 [ONLINE FOOD ORDERING SYSTEM](#)  
+### 🛍️  [E-COMMERCE CLOTHING STORE](#)  
 **Duration:** Mar 2023 - Sept 2023  
-- Developed an Online Food Ordering System using MERN Stack.  (React.JS, Express.js, Node.js, MongoDB)
-- Increased user engagement by 30% through customizable menus, secure payment gateways, and real-time order tracking.  
-- Managed the entire project lifecycle, showcasing strong project management skills and teamwork to deliver customer-centric solutions.  
+- Developed a full-stack E-commerce clothing platform using MERN Stack with features like secure checkout, product filtering, and responsive UI.
+- Implemented CI/CD pipelines with Jenkins, used Docker & Kubernetes for containerization and orchestration, ensuring seamless deployment and scalability.
+- Managed infrastructure using Terraform and Ansible, deployed the application on AWS, and maintained code with Git.
 
 ### 🏢 [EMPLOYEE MANAGEMENT](#)  
 **Duration:** Jun 2024 - Jul 2024  
@@ -105,9 +103,3 @@ conflict resolution and user authentication
 
 -  **Lead Web & Full Stack Developer**,Software Engineering Association Club 
   Apr 2022 - Present
-
-<p align="right">
-<a href="https://www.codechef.com/users/kl_2200031648" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CodeChef-logo.svg" alt="codechef" height="20" width="25" /></a>
-<a href="https://leetcode.com/u/klu_2200031648/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/LeetCode_logo_2023.svg" alt="leetcode" height="20" width="25" /></a>
-<a href="https://www.geeksforgeeks.org/user/abdulrahimxp/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/GeeksforGeeks_logo.svg" alt="geeksforgeeks" height="20" width="25" /></a>
-</p>
