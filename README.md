@@ -42,14 +42,14 @@
 
 ## 💻 **Projects**
 
-### 🎓 [STUDENT EXTRACURRICULAR ACTIVITES MANAGEMENT ](#)  
+### 🎓 [STUDENT EXTRACURRICULAR ACTIVITES MANAGEMENT ](https://github.com/abdulrahim75/Student-Achcievment-System-Frontend)  
 **Duration:** Jul 2024 - Dec 2024
 - Built an student extracurricular management system using the Java Full stack (React.js, Spring Boot, MySQL).
 - Executed a React-Spring Boot system with Admin, College, and Student modules supporting CRUD operations and certificate verification. Improved system reliability by 25% through efficient debugging and testing.
 - Implemented robust system architecture to handle high-volume certificate verification requests, ensuring scalability and
 security
 
-### 📊 [ONLINE TIME TABLE MANAGEMENT](#)  
+### 📊 [ONLINE TIME TABLE MANAGEMENT](https://rahimxp7.pythonanywhere.com/)  
 **Duration:** Dec 2023 - Jun 2024 
 - Created online time table management using Python Full Stack (Django, PostgreSQL).
 - Developed an Online Time Table Management System, optimizing scheduling for educational institutions. Implemented
@@ -57,13 +57,13 @@ using Python Full Stack on GitHub, focusing on user-friendly interfaces, real-ti
 conflict resolution and user authentication
 - Optimized real-time data updates with efficient back-end communication protocols.
 
-### 🛍️  [E-COMMERCE CLOTHING STORE](#)  
+### 🛍️  [E-COMMERCE CLOTHING STORE](https://ecommerce-m4x.vercel.app/)  
 **Duration:** Mar 2023 - Sept 2023  
 - Developed a full-stack E-commerce clothing platform using MERN Stack with features like secure checkout, product filtering, and responsive UI.
 - Implemented CI/CD pipelines with Jenkins, used Docker & Kubernetes for containerization and orchestration, ensuring seamless deployment and scalability.
 - Managed infrastructure using Terraform and Ansible, deployed the application on AWS, and maintained code with Git.
 
-### 🏢 [EMPLOYEE MANAGEMENT](#)  
+### 🏢 [EMPLOYEE MANAGEMENT](https://github.com/abdulrahim75/Employee-Management-System)  
 **Duration:** Jun 2024 - Jul 2024  
 - Designed an Employee Management System using Enterprise Java on GitHub.  (Enterprise Java, MySQL)
 - Streamlined HR operations with features for employee information, attendance, leaves, and payroll management.  
